@@ -13,3 +13,10 @@ This repository currently contains the demo link, a license, and Git ignore rule
 ## To make it maintainable
 
 Add the source project, asset credits, supported controls, build/run steps, and a short changelog. If the deployment is retired, update the demo link here.
+
+## Architecture
+
+
+![critical-strike architecture map](docs/images/critical-strike-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/critical-strike-architecture.svg)
